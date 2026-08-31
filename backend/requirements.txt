@@ -1,0 +1,11 @@
+onnxruntime-directml
+opencv-python
+scikit-learn
+ultralytics
+websockets
+onnxslim
+Pillow
+numpy
+scipy
+onnx
+tqdm
